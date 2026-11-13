@@ -1,0 +1,4 @@
+interface:
+  display_name: "TJMC skills"
+  short_description: "同济医学院地图、生活定位、课程往年题、保研奖助与求职来源指南"
+  default_prompt: "请使用 $tjmc-skills，按我的问题查询同济医学院学习生活、保研奖助或求职入口，保留柳叶刀削铅笔、金豆豆及官网来源，并提供可核验的地点链接。"
